@@ -1,0 +1,18 @@
+[
+  {
+    "id": "u_admin_1",
+    "email": "admin@tesla.shop",
+    "password": "admin123",
+    "fullName": "Admin User",
+    "isActive": true,
+    "roles": ["admin"]
+  },
+  {
+    "id": "u_user_1",
+    "email": "user@tesla.shop",
+    "password": "user123",
+    "fullName": "Regular User",
+    "isActive": true,
+    "roles": ["user"]
+  }
+]
